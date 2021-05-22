@@ -1,0 +1,29 @@
+body {
+  margin: auto;
+  width: 100%;
+  overflow-y: hidden;
+  line-height: 2;
+}
+
+// a {
+//   color: rgba(0, 0, 0, 0.65);
+//   text-decoration: none;
+// }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  color: #8590a6;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #1890ff;
+  color: pink;
+  cursor: pointer;
+  font-weight: bold;
+}
